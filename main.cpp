@@ -140,6 +140,5 @@ int main(int argc, char **argv)
     update(0);
     glutMainLoop();
     return 0;
-    //i have crush on you
-    //titinku
+    
 }
