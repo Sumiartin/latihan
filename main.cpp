@@ -140,7 +140,5 @@ int main(int argc, char **argv)
     update(0);
     glutMainLoop();
     return 0;
-    //sumiartin
-    //my name is sumiartin
-    //you can call me baby
+    //i have crush on you
 }
