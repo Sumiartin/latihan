@@ -141,4 +141,6 @@ int main(int argc, char **argv)
     glutMainLoop();
     return 0;
     //Titin project
+    //pembuatan tablet meggunakan open gl
+
 }
