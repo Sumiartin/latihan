@@ -28,6 +28,7 @@ float _angle = -50.0f;
 void drawScene()
 {
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+    glclearcolor(1.1,1.1,1.1,1.1);
     glMatrixMode(GL_MODELVIEW); // keep it like this
     glLoadIdentity();
     glTranslatef(0.0f, 0.0f, -14.0f);
@@ -139,4 +140,5 @@ int main(int argc, char **argv)
     update(0);
     glutMainLoop();
     return 0;
+    //sumiartin
 }
